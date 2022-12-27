@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Christine Fernando, USA TODAY",
+            "title": "White Christmas? Major snowstorm may hit swath of US before holiday - USA TODAY",
+            "description": "The likelihood of a \"potential blockbuster system\" hitting before Christmas is increasing, AccuWeather forecasters said.",
+            "url": "https://www.usatoday.com/story/news/nation/2022/12/17/holiday-weather-major-christmas-snowstorm-central-eastern-united-states/10916381002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/12/17/USAT/b9ac9517-19f6-47f4-a9e1-5780a231571a-AccuWeather_snow_forecast.jpg?auto=webp&crop=629,354,x1,y0&format=pjpg&width=1200",
+            "publishedAt": "2022-12-19T10:32:16Z",
+            "content": "A major snowstorm may be brewing over the central and eastern U.S. in the days before Christmas with the potential to complicate holiday travel.\r\nThe likelihood of a \"potential blockbuster system\" hi… [+2196 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Hannah Murphy",
+            "title": "Elon Musk polls Twitter users on whether he should step down as chief executive - Financial Times",
+            "description": "Billionaire says he will abide by result after backlash over quickly abandoned ban on promotion of rival platforms",
+            "url": "https://www.ft.com/content/ac421214-e258-43b9-b9df-6357ec139210",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa1a9fbc3-e2c1-4205-a85c-dae245368505.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-12-19T09:42:42Z",
+            "content": "Elon Musk has launched a Twitter poll asking users if he should step down as head of the social media platform and pledged to honour the result, after a backlash over a policy banning the promotion o… [+3736 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Matias Grez",
+            "title": "Lionel Messi cements his place among the greats after winning epic duel against Kylian Mbappé - CNN",
+            "description": "Now there can be no arguments. Now there should be no debate.",
+            "url": "https://www.cnn.com/2022/12/18/football/lionel-messi-kylian-mbappe-greatest-world-cup-final-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221218135055-25-world-cup-final-1218.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-19T09:16:00Z",
+            "content": "Now there can be no arguments. Now there should be no debate.\r\nIn the most dramatic, nerve-shredding way imaginable, Lionel Messi finally got his hands on the World Cup and with it cemented his place… [+7693 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/igor-bonifacic",
+            "title": "Twitter briefly banned links and username mentions relating to Facebook, Instagram and other rivals - Engadget",
+            "description": "Twitter abruptly announced a policy restricting links to competing platforms..",
+            "url": "https://www.engadget.com/twitter-bans-free-promotion-of-competing-platforms-182712974.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/eaee4b80-56dd-11ed-bd4b-da79fe00494f",
+            "publishedAt": "2022-12-19T09:02:00Z",
+            "content": "While many people were turning to Twitter on Sunday to watch the World Cup finals unfold, the company introduced a new policy banning \"free promotion\" of competing social media websites. Twitter said… [+3731 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Abner Li",
+            "title": "Google Pixel Tablet and speaker dock prototype leaks on Facebook Marketplace [Gallery] - 9to5Google",
+            "description": "In what's no longer a surprising occurrence for unreleased Google hardware, a leak of the Pixel Tablet and its Charging Speaker Dock...",
+            "url": "https://9to5google.com/2022/12/18/google-pixel-tablet-leak/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/10/pixel-tablet-ui-cover.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-12-19T07:50:00Z",
+            "content": "In what’s no longer a surprising occurrence for unreleased Google hardware, a leak of the Pixel Tablet and its Charging Speaker Dock has surfaced on Facebook Marketplace.\r\nWith the screen on (via Shr… [+1548 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "NFL Week 15 grades: Patriots get a 'D' for shocking loss to Raiders; Cowboys earn a 'C' for surprising setback - CBS Sports",
+            "description": "Here are the Week 15 grades for every team that played Sunday",
+            "url": "https://www.cbssports.com/nfl/news/nfl-week-15-grades-cowboys-get-c-for-stunning-loss-to-jaguars-chiefs-earn-c-for-surviving-lowly-texans/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/18/17a61a76-7a64-4b56-8ad8-8f4341f2a056/thumbnail/1200x675/5433f2fd0933bca95981d873e92f946d/dak-jags-us.jpg",
+            "publishedAt": "2022-12-19T07:47:00Z",
+            "content": "After a wild Saturday that gave us the biggest comeback win in NFL history, the action on Sunday might have actually topped that. \r\nIn Las Vegas, the Raiders beat the Patriots with one of the wildest… [+3012 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "China reports first COVID deaths in weeks as doubts gather over official count - Reuters",
+            "description": "China reported its first COVID-related deaths in weeks on Monday amid rising doubts over whether the official count was capturing the full toll of a disease that is ripping through cities after the government relaxed strict anti-virus controls.",
+            "url": "https://www.reuters.com/world/china/china-officially-reports-first-covid-deaths-weeks-virus-wave-swells-2022-12-19/",
+            "urlToImage": "https://www.reuters.com/resizer/8RCp3UmoZxtddMXFj_GtMIsnWoA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M7TM4JAXRNKBFD2CHS5LAD3GEQ.jpg",
+            "publishedAt": "2022-12-19T07:18:00Z",
+            "content": "BEIJING, Dec 19 (Reuters) - China reported its first COVID-related deaths in weeks on Monday amid rising doubts over whether the official count was capturing the full toll of a disease that is rippin… [+5008 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Wolfe, Tavleen Tarrant",
+            "title": "5 people killed in a 'horrendous' condo shooting in Canada, police say - CNN",
+            "description": "Five people were killed in a shooting at a condominium in a Toronto suburb Sunday night, police said.",
+            "url": "https://www.cnn.com/2022/12/18/world/condo-shooting-vaughan-canada/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221219000429-02-condo-shooting-vaughan-canada-121822.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-19T07:15:00Z",
+            "content": "Five people were killed in a shooting at a condominium in a Toronto suburb Sunday night, police said.\r\nAt around 7:20 p.m., officers responded to an active shooting call at the building in Vaughan, a… [+1693 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Thailand warship capsizes leaving 31 sailors missing - BBC",
+            "description": "The navy is searching for survivors after the HTMS Sukhothai, carrying 106 crew, sank in a storm.",
+            "url": "https://www.bbc.com/news/world-asia-64023249",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F66C/production/_128048036_navyship.png",
+            "publishedAt": "2022-12-19T06:26:03Z",
+            "content": "Media caption, Watch: Thailand warship capsizes during storm\r\nThe Thai navy says 31 sailors are missing after a warship carrying over 100 crew capsized and sank during a storm in the Gulf of Thailand… [+1935 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Adam Bankhurst",
+            "title": "Oppenheimer Trailer Gives Us Our Best Look of Christopher Nolan's Atomic Bomb Film - IGN",
+            "description": "Oppenheimer, Christopher Nolan's upcoming epic thriller film about the physicist often credited with being the \"father of the atomic bomb,\" has received its first full trailer.",
+            "url": "https://www.ign.com/articles/oppenheimer-trailer-gives-us-our-best-look-of-christopher-nolans-atomic-bomb-film",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/12/19/op-1671429105678.png?width=1280",
+            "publishedAt": "2022-12-19T05:59:43Z",
+            "content": "Oppenheimer, Christopher Nolan's upcoming epic thriller film about the physicist often credited with being the \"father of the atomic bomb,\" has received its first full trailer.\r\nOppenheimer stars Cil… [+1744 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "https://www.theguardian.com/profile/samantha-lock",
+            "title": "Russia-Ukraine war live news: drone strike on Kyiv; UK to announce new artillery package - The Guardian",
+            "description": "Nine Iranian-made drones shot down in capital, say officials; Rishi Sunak to unveil £250m in military support during leaders’ meeting in Latvia",
+            "url": "https://www.theguardian.com/world/live/2022/dec/19/russia-ukraine-war-live-news-drone-strike-on-kyiv-uk-to-announce-new-artillery-package",
+            "urlToImage": "https://i.guim.co.uk/img/media/2e4b6f164e0ad65705b84c64e1247dad51ddbc19/0_0_4300_2580/master/4300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f4f9564aca63c388f4a58551e4bab341",
+            "publishedAt": "2022-12-19T05:30:00Z",
+            "content": "Show key events onlyPlease turn on JavaScript to use this feature\r\nUkraines air force says it shot down 30 out of 35 Russian-launched Shahed drones overnight.\r\nThe Iranian-made Shahed-136/131 kamikaz… [+13407 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "January 6 committee expected to recommend DOJ pursue criminal charges against Trump - KENS 5: Your San Antonio News Source",
+            "description": "Monday will likely be the last public meeting of the House committee investigating the attack on the Capitol.",
+            "url": "https://www.youtube.com/watch?v=F6OEEd7hCHI",
+            "urlToImage": "https://i.ytimg.com/vi/F6OEEd7hCHI/hqdefault.jpg",
+            "publishedAt": "2022-12-19T05:17:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "New York Giants vs. Washington Commanders | 2022 Week 15 Game Highlights - NFL",
+            "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+            "url": "https://www.youtube.com/watch?v=aYQtFvrZJRY",
+            "urlToImage": "https://i.ytimg.com/vi/aYQtFvrZJRY/maxresdefault.jpg",
+            "publishedAt": "2022-12-19T04:40:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Gina Martinez",
+            "title": "36 injured, 11 seriously, after Hawaiian Airlines flight experiences \"severe turbulence,\" officials say - CBS News",
+            "description": "A total of 20 people aboard Hawaiian Airlines Flight 35 were taken to two local hospitals, Honolulu Emergency Medical Services confirmed",
+            "url": "https://www.cbsnews.com/news/hawaiian-airlines-turbulence-injuries/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/12/19/5cf01e7e-a2a4-4edb-94eb-a0ce3b251975/thumbnail/1200x630/22555c723558cc16b62c1f658687518b/gettyimages-1306376494.jpg",
+            "publishedAt": "2022-12-19T04:20:00Z",
+            "content": "A flight from Phoenix to Honolulu left 36 people hurt, with 11 sustaining serious injuries, after the plane experienced \"severe turbulence,\" officials said Sunday.\r\nA total of 20 people aboard Hawaii… [+1690 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "David Nield",
+            "title": "Two Nearby Earth-Like Worlds Found in The Sweet Spot For Life to Survive - ScienceAlert",
+            "description": "In the search for life on other planets, a couple of promising leads have just opened up: Astronomers have identified two worlds with Earth-like masses, sitting in the habitable zone around a red dwarf star called GJ 1002.",
+            "url": "https://www.sciencealert.com/two-nearby-earth-like-worlds-found-in-the-sweet-spot-for-life-to-survive",
+            "urlToImage": "https://www.sciencealert.com/images/2022/12/ExoplanetHeat.jpg",
+            "publishedAt": "2022-12-19T04:14:38Z",
+            "content": "In the search for life on other planets, a couple of promising leads have just opened up: Astronomers have identified two worlds with Earth-like masses, sitting in the habitable zone around a red dwa… [+2917 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arrowhead Pride"
+            },
+            "author": "Matt Stagner",
+            "title": "Chiefs-Texans: 5 winners, 4 losers from Week 15 victory - Arrowhead Pride",
+            "description": "Adding up everyone who made a difference as Kansas City defeated Houston to win the West.",
+            "url": "https://www.arrowheadpride.com/2022/12/18/23515525/chiefs-texans-5-winners-4-losers-from-week-15-win",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/hD5z7DDO1LlIYZJKUoTju-y511o=/962x584:5839x3137/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24301430/usa_today_19647863.jpg",
+            "publishedAt": "2022-12-19T02:35:32Z",
+            "content": "Its never easy, is it?\r\nOn Sunday afternoon, the Kansas City Chiefs had to go to overtime to beat a one-win Houston Texans team that was severely depleted by injuries. The Chiefs offense was able to … [+6586 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "COP15: Summit on 'pact with nature' enters final stretch - BBC",
+            "description": "Decision day looms for sealing a global deal to stop the destruction of nature.",
+            "url": "https://www.bbc.com/news/science-environment-64019324",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9CF7/production/_128038104_cop15.jpg",
+            "publishedAt": "2022-12-19T00:12:05Z",
+            "content": "With only hours left to secure a global agreement to stop the destruction of nature, delegates at a UN summit are considering a new draft deal. \r\nA compromise text has been put forward in a last ditc… [+4222 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Giovanna Dell'orto, Morgan Lee",
+            "title": "US border cities strained ahead of expected migrant surge - The Associated Press - en Español",
+            "description": "EL PASO, Texas (AP) — Along the U.S. southern border, two cities — El Paso, Texas, and Ciudad Juarez in Mexico — prepared Sunday for a surge of as many as 5,000 new migrants a day as pandemic-era immigration restrictions expire this week, setting in motion pl…",
+            "url": "https://apnews.com/150179513b09e15b79f15f34eea24f50/",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/ff2b43888b074bebbe2f6484095ab38b/3000.webp",
+            "publishedAt": "2022-12-19T00:09:54Z",
+            "content": "EL PASO, Texas (AP) Along the U.S. southern border, two cities El Paso, Texas, and Ciudad Juarez in Mexico prepared Sunday for a surge of as many as 5,000 new migrants a day as pandemic-era immigrati… [+7353 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jihye Lee",
+            "title": "Asia-Pacific markets fall as recession fears grow, China vows to stabilize economy - CNBC",
+            "description": "Asia-Pacific markets traded lower as recession fears grow. Chinese officials vowed to stabilize its economy in 2023 and maintain ample liquidity in financial markets in order to meet key targets",
+            "url": "https://www.cnbc.com/2022/12/19/asia-pacific-markets-trade-lower-as-recession-fears-grow.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107168078-1671409534460-gettyimages-1245629733-German_Christmas_Market_Held_In_Shanghai.jpeg?v=1671409623&w=1920&h=1080",
+            "publishedAt": "2022-12-19T00:05:27Z",
+            "content": "San Francisco Federal Reserve President Mary Daly said Friday she sees the recent inflation news as welcome, but it's not enough to change her view on where policy needs to go.\r\nThe October and Novem… [+866 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Belarus leader says situation ‘escalating’ ahead of rare Putin visit - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMidGh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2ludGVybmF0aW9uYWwvMzc4MDAyNC1iZWxhcnVzLWxlYWRlci1zYXlzLXNpdHVhdGlvbi1lc2NhbGF0aW5nLWFoZWFkLW9mLXJhcmUtcHV0aW4tdmlzaXQv0gF4aHR0cHM6Ly90aGVoaWxsLmNvbS9wb2xpY3kvaW50ZXJuYXRpb25hbC8zNzgwMDI0LWJlbGFydXMtbGVhZGVyLXNheXMtc2l0dWF0aW9uLWVzY2FsYXRpbmctYWhlYWQtb2YtcmFyZS1wdXRpbi12aXNpdC9hbXAv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-19T00:04:00Z",
+            "content": null
+        }
+    ]
+}
